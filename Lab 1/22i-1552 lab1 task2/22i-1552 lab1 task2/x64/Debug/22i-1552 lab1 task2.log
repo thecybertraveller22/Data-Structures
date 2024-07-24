@@ -1,0 +1,7 @@
+﻿  22i-1552 lab1 task2.cpp
+C:\Users\Syed Arham Ahmed\Desktop\BS-CY\Semester 3\Data Structures\Lab Tasks\Lab 1\22i-1552 lab1 task2\22i-1552 lab1 task2\22i-1552 lab1 task2.cpp(35,28): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  22i-1552 lab1 task2.vcxproj -> C:\Users\Syed Arham Ahmed\Desktop\BS-CY\Semester 3\Data Structures\Lab Tasks\Lab 1\22i-1552 lab1 task2\x64\Debug\22i-1552 lab1 task2.exe
